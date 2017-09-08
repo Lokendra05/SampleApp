@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleDemo1</string>
+
+    <string name="text_your_enthereum_qr_code">YOUR ENTHEREUM QR CODE</string>
+    <string name="text_your_enthereum_addess">YOUR ENTHEREUM ADDRESS</string>
+
+    <string name="receive_title">RECIEVE</string>
+    <string name="enter_pin_title">ENTER PIN</string>
+    <string name="send_title">SEND</string>
+
+    <string name="trans_history">TRANSACTION HISTORY</string>
+
+</resources>
